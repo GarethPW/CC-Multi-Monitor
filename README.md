@@ -1,3 +1,3 @@
 # ComputerCraft Multi-Monitor Server API and Client
 
-Tested with CcomputerCraft 1.5.
+Tested with ComputerCraft 1.5.
